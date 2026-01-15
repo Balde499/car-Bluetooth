@@ -9,3 +9,8 @@ git init # pour initialisé un repos
 ## vus qu'ils ya des modes d'envois qui sont les ssh et https 
  git remote add origin git@github.com:Balde499/car-Bluetooth.git ## pour un ssh 
 """
+"""Creation d'une branche 
+
+checkout la nouvelle branche merci
+
+bienvenue 
