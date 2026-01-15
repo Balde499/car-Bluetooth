@@ -14,3 +14,7 @@ git init # pour initialisé un repos
 ## redige un commit 
 
 ici on est la pour rediger un commit bienvenus 
+
+git push -u origin main //pour pousser la modifications au branche 
+git add . //comment un ajoute de tous les fichier 
+git status pour connaitre le status 
